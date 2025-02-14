@@ -21,6 +21,7 @@ Tools: Azure DevOps, Node.js, React, Git, Visual Studio Code<br>
 Data: Data visualization and dashboard creation<br>
 Machine Learning: Experience with PyTorch and NLP
 
+![Demo](demo.gif)
 <!---
 DamilolaWilliams1/DamilolaWilliams1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
