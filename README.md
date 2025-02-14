@@ -22,6 +22,10 @@ Data: Data visualization and dashboard creation<br>
 Machine Learning: Experience with PyTorch and NLP
 
 ![Demo](demo.gif) ![Demo](demo1.gif)
+
+![Example](example1.png)<br>
+
+![Example1](example.png)<br>
 <!---
 DamilolaWilliams1/DamilolaWilliams1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
