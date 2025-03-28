@@ -1,4 +1,4 @@
-Damilola Williams | Software Developer & Computer Science Student<br>
+Damilola Williams | Software Developer & Curious Student/Learner & Problem Solver<br>
 
 - 👋 Hi, I’m Damilola Williams
 - 👀 I’m interested in Java, C, C++ and just learning new things
